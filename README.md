@@ -4,6 +4,5 @@ Sharing shell scripts that I've developed from refering many source, hope they m
 int_scan.py
 This is a python script that displays all the interfaces in the system along with the IP addresses and MAC addresses associated with each.
 
-How to run?
 To run the script follow the command:
 python3 int_Scan.py
